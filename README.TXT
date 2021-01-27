@@ -1,1 +1,2 @@
-﻿đừng có đổi tên thư mục res. please!
+This is simple java rpg game that i build from scratch
+
